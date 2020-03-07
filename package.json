@@ -1,0 +1,19 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deechris27/designPatterns.git"
+  },
+  "author": "Deepak <dd43030@gmail.com> (http://tidbit.c.la/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deechris27/designPatterns/issues"
+  },
+  "homepage": "https://github.com/deechris27/designPatterns#readme"
+}
