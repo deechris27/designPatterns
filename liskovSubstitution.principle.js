@@ -3,6 +3,8 @@
 //extension of open closed principle
 //New derived classed shud just extend without replacing the base functionality
 
+//You should be able to substitute a base type for a sub type
+
 class Rectangle{
 
     constructor(width, height){
