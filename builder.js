@@ -1,7 +1,7 @@
 // When you create a class with a constructor that takes multiple paremeters
 // like name, age, address, qualification, marital status etc..
 // It becomes hard to know their order when we create an instance of that class
-// it becomes more tedious if the parameters are more
+// it becomes more tedious if the parameters are more 
 
 class Person{
 
